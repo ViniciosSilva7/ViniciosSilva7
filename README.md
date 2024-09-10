@@ -12,4 +12,4 @@ Me chamo Vinicios Silva, tenho 17 anos e estou me desenvolvendo na linguagem Jav
 - Email: vinnisilvaa67@gmail.com
 - Instagram: @vnz7.zs
 
-[](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZjd2RmczluejBmOXR0enQyd2FjYjdlc3pra3VycGJ1dnVmYXFueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp)
+![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZjd2RmczluejBmOXR0enQyd2FjYjdlc3pra3VycGJ1dnVmYXFueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp)
