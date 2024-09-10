@@ -7,7 +7,7 @@ Me chamo Vinicios Silva, tenho 17 anos e estou me desenvolvendo na linguagem Jav
 - Estudo Programação na Plataforma [Alura](https://alura.com.br). 👨‍💻🤖
 - Neste perfil compartilharei minhas experiências e projetos ao longo do tempo. 💡📌
 
-## Caso queira entrar em contato comigo, segue o email e algumas redes sociais abaixo. 📬📱
+## Caso queira entrar em contato comigo, logo abaixo estará o email e algumas redes sociais. 📬📱
 
 - Email: vinnisilvaa67@gmail.com
 - Instagram: @vnz7.zs
