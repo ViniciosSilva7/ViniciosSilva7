@@ -1,16 +1,13 @@
-## Hi there 👋
+## Sejam Todos(as) Bem-Vindos(as) ao meu perfil! 🤖❤️
 
-<!--
-**ViniciosSilva7/ViniciosSilva7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Me chamo Vinicios Silva, tenho 17 anos e resido em São Paulo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou no terceiro ano do Ensino Médio. 📙🖊️
+- Estudo Programação na Plataforma Alura. 👨‍💻🤖
+- Neste perfil compartilharei minhas experiências e projetos ao longo do tempo. 💡📌
+
+## Caso queira entrar em contato comigo, segue o email e algumas redes sociais abaixo. 📬📱
+
+- Email: vinnisilvaa67@gmail.com
+- Instagram: @vnz7.zs
